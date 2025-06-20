@@ -1,4 +1,5 @@
 module.exports = {
+    base: '/book/',
     title: 'MY BLOG',
     description: 'description of my blog',
     themeConfig: {
